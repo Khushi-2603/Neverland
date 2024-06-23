@@ -1,14 +1,14 @@
 @font-face {
     font-family: "P";
-    src: url(./font/PlayfairDisplay-Regular.9647c7fa\ \(4\).ttf);
+    src: url(./font1.woff);
 }
 @font-face {
     font-family: "RB";
-    src: url(./font/Roobert-Bold.005c37fb.ttf);
+    src: url(./font2.woff);
 }
 @font-face {
     font-family: "RR";
-    src: url(./font/Roobert-Regular.286574d1.ttf);
+    src: url(./font3.woff);
 }
 
 *{
